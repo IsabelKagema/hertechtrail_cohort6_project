@@ -1,3 +1,5 @@
+# hertechtrail_cohort6_project
+capstone forked project
 
 INTRODUCTION
 ==================================================================================================
@@ -9,7 +11,7 @@ ACKNOWLEDMENT
 ==================================================================================================
 I would like to express my gratitude and appreciation to HerTechTrail for giving me this great opportunity to upskill. 
 My sincere appreciation to all my coaches for their time and patience. I would not have achieved this knowledge
-without each one of you, thank you for making me do what I thought was unachievable and moresore remotely. To all the people involved with in HerTechTrail, I appreciate you all and continue changing and introducing tech to many women.
+ without each one of you, thank you for making me do what I thought was unachievable and moresore remotely. To all the people involved with in HerTechTrail, I appreciate you all and continue changing and introducing tech to many women.
  
 TOOLS USED :
 ==================================================================================================
@@ -95,7 +97,7 @@ Javascript Files:
  
 -----------------------------------------------------------------------------------------------
 CONTACTS:
-You can reach me through my email : bkagema1353@gmail.com, and also on twitter @kagema_bella 
+You can reach me through my email : bkagema1353@gmail.com, and also on twitter: @kagema_bella
 
 
 --------------------------------------------------------------------------------------------------------- 
